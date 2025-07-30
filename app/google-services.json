@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "762949170286",
+    "firebase_url": "https://skin-health-c4580-default-rtdb.firebaseio.com",
+    "project_id": "skin-health-c4580",
+    "storage_bucket": "skin-health-c4580.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762949170286:android:cdee02c4a1355ad59b627f",
+        "android_client_info": {
+          "package_name": "skinhealth.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAahV5pILbZ-JGgscAHkbAi6dKuTi4xxn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
