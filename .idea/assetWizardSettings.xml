@@ -102,7 +102,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\admin\Documents\Downloads\skinhealth.ezs.vn\media\logo.png" />
+                                                <entry key="imagePath" value="C:\Users\admin\Documents\Downloads\skinhealth.ezs.vn\iosv16\media\logo.png" />
                                                 <entry key="scalingPercent" value="66" />
                                               </map>
                                             </option>
@@ -136,7 +136,7 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundAssetType" value="COLOR" />
-                                      <entry key="backgroundColor" value="1e1e1e" />
+                                      <entry key="backgroundColor" value="3bb471" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -165,7 +165,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\admin\Documents\Downloads\skinhealth.ezs.vn\media\logo.png" />
+                                                <entry key="imagePath" value="C:\Users\admin\Documents\Downloads\skinhealth.ezs.vn\iosv16\media\logo.png" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -198,9 +198,9 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
-                                      <entry key="backgroundColor" value="1e1e1e" />
+                                      <entry key="backgroundColor" value="3bb471" />
                                       <entry key="iconShape" value="CIRCLE" />
-                                      <entry key="imageAsset" value="C:\Users\admin\Documents\Downloads\skinhealth.ezs.vn\media\logo.png" />
+                                      <entry key="imageAsset" value="C:\Users\admin\Documents\Downloads\skinhealth.ezs.vn\iosv16\media\logo.png" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -229,7 +229,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\admin\Documents\Downloads\skinhealth.ezs.vn\media\logo.png" />
+                                                <entry key="imagePath" value="C:\Users\admin\Documents\Downloads\skinhealth.ezs.vn\iosv16\media\logo.png" />
                                                 <entry key="paddingPercent" value="-10" />
                                               </map>
                                             </option>
@@ -263,7 +263,7 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
-                                      <entry key="imageAsset" value="C:\Users\admin\Documents\Downloads\skinhealth.ezs.vn\media\logo.png" />
+                                      <entry key="imageAsset" value="C:\Users\admin\Documents\Downloads\skinhealth.ezs.vn\iosv16\media\logo.png" />
                                     </map>
                                   </option>
                                 </PersistentState>
